@@ -1,2 +1,2 @@
-# Design
-Projetos feitos durante os estudos de Design
+# WebDesign-Projects
+All my Figma designs created alongside my WebDesign studies.
